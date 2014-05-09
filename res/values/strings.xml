@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EatWhat</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="eatwhat">今日食咩饭啊？</string>
+    <string name="intro">Developed By Jason Lu</string>
+    <string name="start">看看先</string>
+    <string name="change">又吃这个..</string>
+    <string name="title_activity_get_food">GetFoodActivity</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
